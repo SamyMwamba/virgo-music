@@ -1,0 +1,167 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.icovue
+{
+    width: 25px;
+    height: 25px;
+}
+.clipnew
+{
+    position: relative;
+    width: 220px;
+    height: 150px;
+    text-align: center;
+    overflow: hidden;
+
+}
+@media(max-width:500px) {
+    .clipnew {
+        width: 100%;
+
+    }
+
+}
+#mynav li
+{
+
+    color:white;
+
+
+}
+
+#slide-out li:hover
+{
+    background-color: #B71C1C;
+    color: #ffffff;
+}
+
+
+#slide-out li a:hover
+{
+    background-color: #B71C1C;
+    color: #ffffff;
+}
+#logonav
+{
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+}
+.icon
+{
+    width: 50px;
+    height: 50px;
+
+}
+.icon2
+{
+    width: 25px;
+    height: 25px;
+background-color: #FFFFFF;
+}
+
+.icon:hover {
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+}
+
+#monfooter
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+#monfooter h5
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.card-title
+{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+#monfooter li
+{
+    display: inline;
+
+}
+
+#listevideo span
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.redkatanga
+{
+    background-color: #B71C1C;
+    color: #ffffff;
+}
+#pagination ul li a
+{
+    color: #ffffff;
+}
+.card-content
+{
+    height: 243px;
+}
+ul,li,a
+{
+    text-align: left;
+}
+
+
+th{
+
+    background-color: #B71C1C;
+}
+td
+{
+    background-color:#0097a7;
+   border: 1px solid darkgray;
+    height: 10px;
+    padding: 0;
+}
+tr{
+    height: 10px;
+
+}
+
+tr:hover
+{
+    background-color: white;
+    color: white;
+}
+
+#lecteuraudio
+
+{
+    background-image: url("../images/2.jpg");
+    height: 100px;
+}
+
+#lect
+{
+    width: 100%;
+   margin-top: 30px;
+}
+.datadivi
+{
+    min-height: 600px;
+}
+#datadivi
+{
+    min-height: 600px;
+}
+#ffspinner
+{
+    position: relative;
+    top:50%;
+    left: 50%;
+}
